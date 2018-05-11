@@ -1,4 +1,4 @@
-# git-stone-soup
+ # git-stone-soup
 A git learning example
 
 - - -
@@ -6,3 +6,4 @@ A git learning example
 ## Making stone soup:
 
 1. Put a pot of water on a campfire
+2. Add some dehydrated mushrooms
